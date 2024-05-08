@@ -1,3 +1,3 @@
 # Merge Conflict
 
-The [merge-coflict](tree/conflict) branch has a [conflict](pull/1).
+The [merge-coflict](tree/conflict) branch has a [conflict](GH-1).
